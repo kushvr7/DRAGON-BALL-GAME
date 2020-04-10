@@ -12,6 +12,8 @@ ex: like controls for player 1 are
    6) "O" to telePort .
    7) "L" to shoot .
    8) "P" to powerDown .
+    
+   <b>collision sound , game start sound and teleport sound effects are also added </b>
    
    AND MANY POWER MORE INTERESTING CONTROLS .
    
