@@ -17,16 +17,16 @@ Each player can move on the screen using the controls (keyboard inputs) . Simila
 <b>COLLISION SOUND , GAME EFFECT SOUND and TELEPORT SOUND EFFECT ALSO ADDED .</b>
 
 ###CONTROLS FOR PLAYER 1 :
-<div class="bg-yellow-light mb-2">
-   1) "<b>ARROWLEFT</b>" to move left .
-   2) "<b>ARROWRIGHT</b>" to move right .
+
+   1) "<b>ARROWLEFT</b>" to move left .<br>
+   2) "<b>ARROWRIGHT</b>" to move right .<br>
    3) "<b>ARROWTOP</b>" to move top .
    4) "<b>ARROWDOWN</b>" to move down .
    5) "<b>K</b>" to powerUP.
    6) "<b>O</b>" to telePort .
    7) "<b>L</b>" to shoot .
    8) "<b>P</b>" to powerDown .
- </div>   
+  
  
 ###CONTROLS FOR PLAYER 2 :
 
@@ -37,10 +37,12 @@ Each player can move on the screen using the controls (keyboard inputs) . Simila
    5) "<b>Q</b>" to powerUP.
    6) "<b>Z</b>" to telePort .
    7) "<b>E</b>" to shoot .
-   8) "<b>R</b>" to powerDown .    (THE RED LETTERS REPRESENTS THE CONTROLS OF PLAYER 1 IN A COMPARATIVE FORMAT).  
-    
+   8) "<b>R</b>" to powerDown .    
+   
 <b>THE CHARACTERS CHANGES AS THE SPIRITS MAKES A CERTAIN <b>THRESHOLD HITs</b>  
    
    ##  SOME OF THE SCREENSHOTS OF THE GAME : 
 
-   
+####MAIN WINDOW
+      ![cover](https://user-images.githubusercontent.com/47947329/79051894-614ebf00-7c50-11ea-827f-85ece6880046.PNG)
+ 
