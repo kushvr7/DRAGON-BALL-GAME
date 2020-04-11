@@ -43,6 +43,28 @@ Each player can move on the screen using the controls (keyboard inputs) . Simila
    
    ##  SOME OF THE SCREENSHOTS OF THE GAME : 
 
-####MAIN WINDOW
+<b>MAIN WINDOW</b>
       ![cover](https://user-images.githubusercontent.com/47947329/79051894-614ebf00-7c50-11ea-827f-85ece6880046.PNG)
- 
+      
+ <b>After instant TELEPORTATION or MOVEMENT</b>
+      ![s2](https://user-images.githubusercontent.com/47947329/79051948-bee30b80-7c50-11ea-8ac9-e58c908f77c4.PNG)
+      
+  <b>Both getting power charged</b>  
+      ![s3](https://user-images.githubusercontent.com/47947329/79051973-ed60e680-7c50-11ea-8a27-03b82bbf9cd4.PNG)
+      
+   <b>Enemy only getting poer charged</b>  
+      ![s4](https://user-images.githubusercontent.com/47947329/79052029-44ff5200-7c51-11ea-8f98-72432c1c0abb.PNG)
+      
+   <b>PLAYER 1 getting changed as the score is greater than 5</b>  
+      ![s5](https://user-images.githubusercontent.com/47947329/79052059-66f8d480-7c51-11ea-824c-bca5bf11d6a6.PNG)
+      
+   <b>NEW enemys power charged</b>
+      ![s6](https://user-images.githubusercontent.com/47947329/79052088-8db70b00-7c51-11ea-8f46-c09c2f5e5472.PNG)
+      
+   <b>NEW TELEPORTATION an both power charged</b>
+      ![s7](https://user-images.githubusercontent.com/47947329/79052114-bb9c4f80-7c51-11ea-9b38-4f88cef450e8.PNG)
+
+
+
+   
+
