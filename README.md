@@ -46,25 +46,27 @@ Each player can move on the screen using the controls (keyboard inputs) . Simila
 <b>MAIN WINDOW</b>
       ![cover](https://user-images.githubusercontent.com/47947329/79051894-614ebf00-7c50-11ea-827f-85ece6880046.PNG)
       
- <b>After instant TELEPORTATION or MOVEMENT</b>
-      ![s2](https://user-images.githubusercontent.com/47947329/79051948-bee30b80-7c50-11ea-8ac9-e58c908f77c4.PNG)
-      
-  <b>Both getting power charged</b>  
-      ![s3](https://user-images.githubusercontent.com/47947329/79051973-ed60e680-7c50-11ea-8a27-03b82bbf9cd4.PNG)
-      
-   <b>Enemy only getting poer charged</b>  
-      ![s4](https://user-images.githubusercontent.com/47947329/79052029-44ff5200-7c51-11ea-8f98-72432c1c0abb.PNG)
-      
-   <b>PLAYER 1 getting changed as the score is greater than 5</b>  
-      ![s5](https://user-images.githubusercontent.com/47947329/79052059-66f8d480-7c51-11ea-824c-bca5bf11d6a6.PNG)
-      
-   <b>NEW enemys power charged</b>
-      ![s6](https://user-images.githubusercontent.com/47947329/79052088-8db70b00-7c51-11ea-8f46-c09c2f5e5472.PNG)
-      
    <b>NEW TELEPORTATION an both power charged</b>
       ![s7](https://user-images.githubusercontent.com/47947329/79052114-bb9c4f80-7c51-11ea-9b38-4f88cef450e8.PNG)
 
 
+ ## CODE FOR THE POWERS .
+ 
+   <b>MOVEMENT OF PLAYERS</b>
+   ![movement](https://user-images.githubusercontent.com/47947329/79052273-e0dd8d80-7c52-11ea-823e-881a694a2c65.PNG)
+  
+  <b>POWER-UP</b>
+  ![powerup](https://user-images.githubusercontent.com/47947329/79052293-fb176b80-7c52-11ea-868b-7d64f82ad20d.PNG)
 
+  <b>POWER-DOWN and SHOOT</b>
+    ![POWERSHOOT CODE](https://user-images.githubusercontent.com/47947329/79052301-0ff3ff00-7c53-11ea-8ba7-276e839c6110.PNG)
+
+  <b>COLLISION(HIT made or not)</b>
+    ![collision](https://user-images.githubusercontent.com/47947329/79052309-2b5f0a00-7c53-11ea-9a10-c841147994a6.PNG)
+
+
+
+  
+    
    
 
