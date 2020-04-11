@@ -16,8 +16,8 @@ Each player can move on the screen using the controls (keyboard inputs) . Simila
 
 <b>COLLISION SOUND , GAME EFFECT SOUND and TELEPORT SOUND EFFECT ALSO ADDED .</b>
 
-CONTROLS FOR PLAYER 1 :
-
+###CONTROLS FOR PLAYER 1 :
+<div class="bg-yellow-light mb-2">
    1) "<b>ARROWLEFT</b>" to move left .
    2) "<b>ARROWRIGHT</b>" to move right .
    3) "<b>ARROWTOP</b>" to move top .
@@ -26,9 +26,9 @@ CONTROLS FOR PLAYER 1 :
    6) "<b>O</b>" to telePort .
    7) "<b>L</b>" to shoot .
    8) "<b>P</b>" to powerDown .
-    
+ </div>   
  
-CONTROLS FOR PLAYER 2 :
+###CONTROLS FOR PLAYER 2 :
 
    1) "<b>A</b>" to move left .
    2) "<b>D</b>" to move right .
