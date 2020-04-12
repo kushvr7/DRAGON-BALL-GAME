@@ -167,7 +167,10 @@ window.addEventListener('keypress', (yy) => {
         // case '0' :
         //     circle.style.left = "10px";
         //     enemy.style.left: "60px";
-        default :
+         case 'F':
+               openFullscreen();
+               break;
+       default :
           break; 
 
         
@@ -373,6 +376,27 @@ var hit =0;
     pun.play();
     // return;
      }
+
+
+
+  var elem = document.documentElement;
+
+/* Function to open fullscreen mode */
+function openFullscreen() {
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen();
+  } else if (elem.mozRequestFullScreen) { /* Firefox */
+    elem.mozRequestFullScreen();
+  } else if (elem.webkitRequestFullscreen) { /* Chrome, Safari & Opera */
+    elem.webkitRequestFullscreen();
+  } else if (elem.msRequestFullscreen) { /* IE/Edge */
+    elem = window.top.document.body; //To break out of frame in IE
+    elem.msRequestFullscreen();
+  }
+}
+
+
+
 
 
     //  function puncha() {
