@@ -14,10 +14,10 @@ And the players has to so on make the hit to collect the points .
 
 Each player can move on the screen using the controls (keyboard inputs) . Similarly they can <b>POWER-UP</b> , <b>   POWER-SHOOT</b> , <b>POWER-RELAX</b> and <b>TELEPORT</b> using the controls alloted .
 
-<b>COLLISION SOUND , GAME EFFECT SOUND and TELEPORT SOUND EFFECT ALSO ADDED .</b>
-     |-------------------------------------------------| 
-     |<b>FOR FULL SCREEN mode :</b>  type "<b>F</b>"   |
-     |-------------------------------------------------|                                                  
+<b>COLLISION SOUND , GAME EFFECT SOUND and TELEPORT SOUND EFFECT ALSO ADDED .</b><br>
+
+|====    <b>FOR FULL SCREEN mode :</b>  type "<b>F</b>"   ====|
+                                                
 ###CONTROLS FOR PLAYER 1 :
 
    1) "<b>ARROWLEFT</b>" to move left .<br>
