@@ -45,11 +45,11 @@ Each player can move on the screen using the controls (keyboard inputs) . Simila
 
 <b>MAIN WINDOW</b>
 
-      ![cover](https://user-images.githubusercontent.com/47947329/79051894-614ebf00-7c50-11ea-827f-85ece6880046.PNG)
+   ![cover](https://user-images.githubusercontent.com/47947329/79051894-614ebf00-7c50-11ea-827f-85ece6880046.PNG)
       
    <b>NEW TELEPORTATION an both power charged</b>
    
-      ![s7](https://user-images.githubusercontent.com/47947329/79052114-bb9c4f80-7c51-11ea-9b38-4f88cef450e8.PNG)
+   ![s7](https://user-images.githubusercontent.com/47947329/79052114-bb9c4f80-7c51-11ea-9b38-4f88cef450e8.PNG)
 
 
  ## CODE FOR THE POWERS .
